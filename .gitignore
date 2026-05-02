@@ -1,0 +1,31 @@
+# Python
+*.py[cod]
+__pycache__/
+/*.ipynb
+/*.pstats
+/*.pkl
+*log.csv
+*.so
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+.codex
+
+# Logs
+/logs/
+/output/
+
+*/.ipynb_checkpoints
+# *.png
+*.ipynb
+*.sh
+
+multirun/
+wandb/
+.DS_Store
+MUJOCO_LOG.TXT
+figs/
+*test
+qpos_trans.py

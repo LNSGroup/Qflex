@@ -1,0 +1,3 @@
+# Environments: h1-run-v0, h1-balance_simple-v0
+-r base.txt
+-e envs/humanoid-bench

@@ -1,0 +1,4 @@
+# Environments: myoHandPenTwirlRandom-v0, myoLegWalk-v0
+-r base.txt
+gymnasium[mujoco]==1.0.0
+myosuite

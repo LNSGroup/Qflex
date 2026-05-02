@@ -1,0 +1,19 @@
+# Shared Qflex training dependencies.
+# JAX is kept separate because CPU/CUDA wheels differ by machine.
+-e .
+
+optax
+dm-haiku
+numpyro
+numba
+tensorboardX
+ipdb
+PyYAML
+tensorboard
+wandb
+dill==0.3.8
+matplotlib
+moviepy==2.1.2
+scikit-learn
+tqdm
+setproctitle

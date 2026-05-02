@@ -1,0 +1,14 @@
+# Legacy compatibility requirements.
+#
+# Benchmark-specific uv environments are the source of truth:
+#   requirements/uv/relax_humanoidbench.txt
+#   requirements/uv/relax_smplhumanoid.txt
+#   requirements/uv/relax_msgym.txt
+#   requirements/uv/relax_myosuite.txt
+#
+# JAX is intentionally not installed here because CPU and CUDA wheels differ.
+# Install one of these before/with this file when needed:
+#   -r requirements/uv/jax-cpu.txt
+#   -r requirements/uv/jax-cuda12.txt
+
+-r requirements/uv/base.txt

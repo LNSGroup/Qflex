@@ -1,0 +1,7 @@
+# Environment: MS700Locomotion-v1
+# Mirrors the local relax_ms conda environment for envs/ms_700_walk.
+-r base.txt
+
+gymnasium[mujoco]==1.0.0
+pandas
+scipy

@@ -1,0 +1,2 @@
+# CPU-only JAX fallback for smoke tests and non-GPU machines.
+jax==0.4.27

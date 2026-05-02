@@ -1,0 +1,9 @@
+[submodule "envs/humanoid-bench"]
+	path = envs/humanoid-bench
+	url = https://github.com/carlosferrazza/humanoid-bench.git
+[submodule "envs/ostrich/ostrichrl"]
+	path = envs/ostrich/ostrichrl
+	url = https://github.com/vittorione94/ostrichrl.git
+[submodule "envs/ms_700_walk/MS-Human-700"]
+	path = envs/ms_700_walk/MS-Human-700
+	url = https://github.com/LNSGroup/MS-Human-700.git
