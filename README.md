@@ -1,7 +1,7 @@
 # Qflex: Scalable Exploration for High-Dimensional Continuous Control via Value-Guided Flow
 
 
-Official implementation of [Q-guided flow exploration (Qflex)](https://arxiv.org/abs/2601.19707) submission at ICLR 2026.
+Official implementation of [Q-guided flow exploration (Qflex)](https://arxiv.org/abs/2601.19707) algorithm at ICLR 2026.
 
 
 <p align="center">
